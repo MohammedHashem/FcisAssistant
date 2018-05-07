@@ -58,6 +58,9 @@ public abstract class Person  {
     public void setPassword(String password) {
         Password = password;
     }
+    public void InsertCourse(){
+     //OverLoadedFunction   
+    }
 
 
 }
